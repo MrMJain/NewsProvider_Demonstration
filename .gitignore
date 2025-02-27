@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NewsProviderServiceTests/TestResults/67809c81-9e9b-4d6d-bcc0-517a1fb40e2d
+/NewsProviderServiceTests/obj
+/NewsProviderServiceTests/bin/Debug/net8.0
+/NextechDemoControllerTests/TestResults/9d83a241-2f43-4cad-97d2-87faab3ec865
+/NextechDemoControllerTests/obj
+/NextechDemoControllerTests/bin/Debug/net8.0
+/src/application/Application/bin/Debug/net8.0
+/src/application/Application/obj
+/src/services/NextechDemo.Api/bin/Debug/net8.0
+/src/services/NextechDemo.Api/obj
+/src/shared/NextechDemo.Shared/obj
+/src/shared/NextechDemo.Shared/bin/Debug/net8.0

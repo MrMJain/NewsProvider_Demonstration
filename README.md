@@ -1,2 +1,1 @@
-# NewsProvider_Demonstration
-News Provider Demo
+# NewsProvider_Demonstration-
